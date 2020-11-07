@@ -1,7 +1,10 @@
 ### crossjs
 
-![crossjs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crossjs&show_icons=true&count_private=true)
-
+<div style="display: flex;flex-direction: row">
+  <div>
+    ![crossjs's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crossjs&show_icons=true&count_private=true)
+  </div>
+  <div>
 - 🔭 I’m currently working on Leedarson
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,3 +13,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  </div>
+</div>
